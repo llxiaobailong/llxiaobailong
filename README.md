@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @llxiaobailong
 - 👀 I’m interested in it
-- 🌱 I’m currently learning this
-- 💞️ I’m looking to collaborate on this
+
